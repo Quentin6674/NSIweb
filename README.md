@@ -1,10 +1,17 @@
 # NSIweb
-.
-<dl>
-<dt><b>Premier terme</b></dt>
-<dd>Première définition</dd>
-<dt><b>Deuxième terme</b></dt>
-<dd>Deuxième définition</dd>
-<dt><b>Troisième terme</b></dt>
-<dd>Troisième définition</dd>
-</dl>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>JS Bin</title>
+</head>
+<body>
+<FORM>
+<SELECT name="prénom" size="1">
+<OPTION>paul
+<OPTION>pierre
+</SELECT>
+</FORM>
+</body>
+</html>
